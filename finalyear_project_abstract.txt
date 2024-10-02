@@ -1,0 +1,3 @@
+The project focuses on preventing Sybil attacks in Vehicular Ad-hoc Networks (VANETs) by combining Blom’s Scheme for key distribution with collaborative trust mechanisms.
+It aims to authenticate vehicle identities using advanced cryptography and trust models, incorporating key signals like location and proximity. 
+The framework will analyze performance metrics, including false positives and communication overhead, to ensure real-time attack detection and improve vehicular network security for safer transportation systems.
